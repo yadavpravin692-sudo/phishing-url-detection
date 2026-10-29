@@ -5,7 +5,7 @@
 
 * **Author:** Pravin Yadav (Banner ID: B01847540)
 * **Supervisor:** Dr. Raja Ujjan
-* **Moderator:** Dr. Manesh Thankappan
+* **Moderator:** Dr. Muhsin Hassanu
 * **Term:** Autumn / Academic Year 2026–2027
 
 ---
