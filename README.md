@@ -89,29 +89,6 @@ $$\chi^2_i = \sum_{j \in \{0, 1\}} \frac{\left(O_{ij} - E_{ij}\right)^2}{E_{ij}}
 * Python 3.10+
 * Git
 
-### Installation
-1. Clone this repository:
-   ```bash
-   git clone <repository_url>
-   cd Pravin_yadav
-   ```
-
-2. Install required Python packages:
-   ```bash
-   pip install numpy pandas scikit-learn matplotlib seaborn python-docx joblib
-   ```
-
-3. Run the machine learning pipeline:
-   ```bash
-   python 02_Interim_Report/code/run_preliminary_experiments.py
-   ```
-   *This outputs metrics to `02_Interim_Report/results/preliminary_metrics_summary.csv` and renders high-resolution visualization plots.*
-
-4. Rebuild the interim report Word document:
-   ```bash
-   python 02_Interim_Report/code/build_interim_report.py
-   ```
-
 ---
 
 ## 🔒 6. Academic Integrity & Ethics
